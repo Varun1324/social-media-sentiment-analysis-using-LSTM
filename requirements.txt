@@ -1,10 +1,7 @@
-pip==25.0.1
 streamlit
-tensorflow-cpu==2.10.0
-numpy
-keras
-pickle5
+tensorflow==2.10.0
 tensorflow-gpu
+numpy
 pandas
 scipy
 opencv-python
